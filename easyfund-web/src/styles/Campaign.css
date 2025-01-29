@@ -1,0 +1,104 @@
+.campaign {
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.campaign-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.campaign-stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.stat {
+  text-align: center;
+}
+
+.stat h3 {
+  font-size: 2rem;
+  color: #4f46e5;
+  margin-bottom: 0.5rem;
+}
+
+.progress-bar {
+  height: 20px;
+  background: #e5e7eb;
+  border-radius: 10px;
+  margin: 2rem 0;
+  overflow: hidden;
+}
+
+.progress {
+  height: 100%;
+  background: #4f46e5;
+  border-radius: 10px;
+  transition: width 0.3s ease;
+}
+
+.perks-section {
+  margin-top: 3rem;
+}
+
+.perks-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.perk-card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 15px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.perk-card h4 {
+  color: #4f46e5;
+  margin-bottom: 1rem;
+}
+
+.price {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #374151;
+  margin-bottom: 1rem;
+}
+
+.perk-progress {
+  margin: 1rem 0;
+}
+
+.perk-progress-bar {
+  height: 8px;
+  background: #e5e7eb;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.perk-progress-fill {
+  height: 100%;
+  background: #4f46e5;
+  transition: width 0.3s ease;
+}
+
+.claim-btn {
+  width: 100%;
+  padding: 0.75rem;
+  background: #4f46e5;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.claim-btn:hover {
+  background: #4338ca;
+} 

@@ -1,0 +1,1231 @@
+[{
+  "uuid": "d9ec07cc-7686-bb9b-0f6b-d4f4965e1962",
+  "name": "MobiKwik",
+  "type": "organization",
+  "imageUrl": "https://images.crunchbase.com/image/upload/c_pad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/v1417424257/bgq56bti8dt2ne8omvu7whka6jduemzyu5hi1evk.png",
+  "link": "https://www.crunchbase.com/organization/mobikwik",
+  "identifier": {
+    "permalink": "mobikwik",
+    "image_id": "whka6jduemzyu5hi1evk",
+    "uuid": "d9ec07cc-7686-bb9b-0f6b-d4f4965e1962",
+    "entity_def_id": "organization",
+    "value": "MobiKwik"
+  },
+  "short_description": "MobiKwik provides financial products, including payments and digital credit services.",
+  "num_employees_enum": "c_00501_01000",
+  "location_identifiers": [
+    {
+      "permalink": "gurgaon-haryana",
+      "uuid": "43ab9136-c365-420c-be50-e5e9576751cf",
+      "location_type": "city",
+      "entity_def_id": "location",
+      "value": "Gurgaon"
+    },
+    {
+      "permalink": "haryana-india",
+      "uuid": "5791883d-3b71-c28b-b39b-bf559f26c754",
+      "location_type": "region",
+      "entity_def_id": "location",
+      "value": "Haryana"
+    },
+    {
+      "permalink": "india",
+      "uuid": "44048bf7-db64-0d7a-db20-fd3c1ebf47b0",
+      "location_type": "country",
+      "entity_def_id": "location",
+      "value": "India"
+    },
+    {
+      "permalink": "asia",
+      "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+      "location_type": "continent",
+      "entity_def_id": "location",
+      "value": "Asia"
+    }
+  ],
+  "last_funding_at": "2024-03-28",
+  "last_funding_type": "debt_financing",
+  "categories": [
+    {
+      "permalink": "consumer-lending",
+      "image_id": "fb49e4451d6b465d858a6ab16fe1d553",
+      "uuid": "a78ac397-329a-b850-fe64-5e4c86705a32",
+      "entity_def_id": "category",
+      "value": "Consumer Lending"
+    },
+    {
+      "permalink": "financial-services",
+      "image_id": "c06f7439a26b42f2b1b190944f73b027",
+      "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+      "entity_def_id": "category",
+      "value": "Financial Services"
+    },
+    {
+      "permalink": "fintech-e067",
+      "image_id": "965ded32ecc54a209f6ec2f500b3b4de",
+      "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+      "entity_def_id": "category",
+      "value": "FinTech"
+    },
+    {
+      "permalink": "lending",
+      "image_id": "2a47b69219ea4c3ebbaa442caf3fe692",
+      "uuid": "83bd19b9-d944-aab6-8da7-9552a453ed93",
+      "entity_def_id": "category",
+      "value": "Lending"
+    },
+    {
+      "permalink": "mobile-payments",
+      "image_id": "d8df9e009814490fb264f771d45dc498",
+      "uuid": "33cfeb88-f323-1b4f-8ecc-f3f876a5df05",
+      "entity_def_id": "category",
+      "value": "Mobile Payments"
+    }
+  ],
+  "rank_org_company": 42,
+  "funding_stage": "ipo"
+},
+{
+  "uuid": "6b585dcc-9bdc-d5d5-42b5-bc25500ec3ab",
+  "name": "National Stock Exchange",
+  "type": "organization",
+  "imageUrl": "https://images.crunchbase.com/image/upload/c_pad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/v1417424257/bgq56bti8dt2ne8omvu7n9ldn8pivgsrsbwcrs4s.png",
+  "link": "https://www.crunchbase.com/organization/national-stock-exchange",
+  "identifier": {
+    "permalink": "national-stock-exchange",
+    "image_id": "n9ldn8pivgsrsbwcrs4s",
+    "uuid": "6b585dcc-9bdc-d5d5-42b5-bc25500ec3ab",
+    "entity_def_id": "organization",
+    "value": "National Stock Exchange"
+  },
+  "short_description": "NSE is India's stock exchange covering various cities and towns across the country.",
+  "num_employees_enum": "c_00501_01000",
+  "location_identifiers": [
+    {
+      "permalink": "mumbai-maharashtra",
+      "uuid": "08cc18c4-8455-1e1a-3871-0c5e64cfacc7",
+      "location_type": "city",
+      "entity_def_id": "location",
+      "value": "Mumbai"
+    },
+    {
+      "permalink": "maharashtra-india",
+      "uuid": "9f01ca74-7cd7-7b8c-f741-828699d920a2",
+      "location_type": "region",
+      "entity_def_id": "location",
+      "value": "Maharashtra"
+    },
+    {
+      "permalink": "india",
+      "uuid": "44048bf7-db64-0d7a-db20-fd3c1ebf47b0",
+      "location_type": "country",
+      "entity_def_id": "location",
+      "value": "India"
+    },
+    {
+      "permalink": "asia",
+      "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+      "location_type": "continent",
+      "entity_def_id": "location",
+      "value": "Asia"
+    }
+  ],
+  "last_funding_at": "2023-07-17",
+  "last_funding_type": "private_equity",
+  "categories": [
+    {
+      "permalink": "financial-services",
+      "image_id": "c06f7439a26b42f2b1b190944f73b027",
+      "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+      "entity_def_id": "category",
+      "value": "Financial Services"
+    },
+    {
+      "permalink": "fintech-e067",
+      "image_id": "965ded32ecc54a209f6ec2f500b3b4de",
+      "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+      "entity_def_id": "category",
+      "value": "FinTech"
+    },
+    {
+      "permalink": "stock-exchanges",
+      "image_id": "d805498270364f339ecfc808581de9f4",
+      "uuid": "44cbfd35-6e4b-3af5-74d2-ab01eb112bbd",
+      "entity_def_id": "category",
+      "value": "Stock Exchanges"
+    }
+  ],
+  "rank_org_company": 532,
+  "funding_stage": "private_equity"
+},
+{
+  "uuid": "ecbd1ea0-5cf6-0206-675a-f65e0d01f8e5",
+  "name": "Cashfree Payments",
+  "type": "organization",
+  "imageUrl": "https://images.crunchbase.com/image/upload/c_pad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/v1417424257/bgq56bti8dt2ne8omvu7xc0vjig2ayhte7rmr52n.png",
+  "link": "https://www.crunchbase.com/organization/cashfree",
+  "identifier": {
+    "permalink": "cashfree",
+    "image_id": "xc0vjig2ayhte7rmr52n",
+    "uuid": "ecbd1ea0-5cf6-0206-675a-f65e0d01f8e5",
+    "entity_def_id": "organization",
+    "value": "Cashfree Payments"
+  },
+  "short_description": "Cashfree Payments makes payments reliable, and easy-to-integrate for businesses at different stages of the growth cycle.",
+  "num_employees_enum": "c_00501_01000",
+  "location_identifiers": [
+    {
+      "permalink": "bengaluru-karnataka",
+      "uuid": "4919f924-dbb7-d862-5db6-38231678e4d5",
+      "location_type": "city",
+      "entity_def_id": "location",
+      "value": "Bengaluru"
+    },
+    {
+      "permalink": "karnataka-india",
+      "uuid": "cd79504e-3c0a-954f-a3c6-094f46c0d524",
+      "location_type": "region",
+      "entity_def_id": "location",
+      "value": "Karnataka"
+    },
+    {
+      "permalink": "india",
+      "uuid": "44048bf7-db64-0d7a-db20-fd3c1ebf47b0",
+      "location_type": "country",
+      "entity_def_id": "location",
+      "value": "India"
+    },
+    {
+      "permalink": "asia",
+      "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+      "location_type": "continent",
+      "entity_def_id": "location",
+      "value": "Asia"
+    }
+  ],
+  "last_funding_at": "2023-05-18",
+  "last_funding_type": "debt_financing",
+  "categories": [
+    {
+      "permalink": "finance",
+      "image_id": "8a6f77a3498a4651ba8166e32ebe43a6",
+      "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+      "entity_def_id": "category",
+      "value": "Finance"
+    },
+    {
+      "permalink": "financial-services",
+      "image_id": "c06f7439a26b42f2b1b190944f73b027",
+      "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+      "entity_def_id": "category",
+      "value": "Financial Services"
+    },
+    {
+      "permalink": "fintech-e067",
+      "image_id": "965ded32ecc54a209f6ec2f500b3b4de",
+      "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+      "entity_def_id": "category",
+      "value": "FinTech"
+    },
+    {
+      "permalink": "mobile-payments",
+      "image_id": "d8df9e009814490fb264f771d45dc498",
+      "uuid": "33cfeb88-f323-1b4f-8ecc-f3f876a5df05",
+      "entity_def_id": "category",
+      "value": "Mobile Payments"
+    },
+    {
+      "permalink": "payments",
+      "image_id": "e1c219cc324143a191779e0dc6efc73d",
+      "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+      "entity_def_id": "category",
+      "value": "Payments"
+    }
+  ],
+  "rank_org_company": 561,
+  "funding_stage": "early_stage_venture"
+},
+{
+  "uuid": "07e0f3c3-11b2-4d8d-a740-0bd39da47615",
+  "name": "Pocket FM",
+  "type": "organization",
+  "imageUrl": "https://images.crunchbase.com/image/upload/c_pad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/v1417424257/bgq56bti8dt2ne8omvu7qtejhjup9w63oreidi83.png",
+  "link": "https://www.crunchbase.com/organization/pocket-fm",
+  "identifier": {
+    "permalink": "pocket-fm",
+    "image_id": "qtejhjup9w63oreidi83",
+    "uuid": "07e0f3c3-11b2-4d8d-a740-0bd39da47615",
+    "entity_def_id": "organization",
+    "value": "Pocket FM"
+  },
+  "short_description": "Pocket FM creates audio series platforms for long-form audio entertainment.",
+  "num_employees_enum": "c_00501_01000",
+  "location_identifiers": [
+    {
+      "permalink": "bangalore-karnataka",
+      "uuid": "37f3a3fe-b659-895e-4d84-0b649e005c3a",
+      "location_type": "city",
+      "entity_def_id": "location",
+      "value": "Bangalore"
+    },
+    {
+      "permalink": "karnataka-india",
+      "uuid": "cd79504e-3c0a-954f-a3c6-094f46c0d524",
+      "location_type": "region",
+      "entity_def_id": "location",
+      "value": "Karnataka"
+    },
+    {
+      "permalink": "india",
+      "uuid": "44048bf7-db64-0d7a-db20-fd3c1ebf47b0",
+      "location_type": "country",
+      "entity_def_id": "location",
+      "value": "India"
+    },
+    {
+      "permalink": "asia",
+      "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+      "location_type": "continent",
+      "entity_def_id": "location",
+      "value": "Asia"
+    }
+  ],
+  "last_funding_at": "2024-03-15",
+  "last_funding_type": "series_d",
+  "categories": [
+    {
+      "permalink": "apps",
+      "image_id": "ec09d2b58fe048cf85168ff0060450a8",
+      "uuid": "af333248-9c7e-50c5-168a-e91b86595a17",
+      "entity_def_id": "category",
+      "value": "Apps"
+    },
+    {
+      "permalink": "audio",
+      "image_id": "3df87f7154b34260b3363899723800d0",
+      "uuid": "05e1d0a1-c34d-cf1a-c686-5a6466a8151b",
+      "entity_def_id": "category",
+      "value": "Audio"
+    },
+    {
+      "permalink": "digital-entertainment",
+      "image_id": "6eb3fe31bacc4a8ab19f7fb90634d846",
+      "uuid": "6f169dae-3199-cda7-a7eb-94c30066691c",
+      "entity_def_id": "category",
+      "value": "Digital Entertainment"
+    },
+    {
+      "permalink": "information-technology-dbca",
+      "image_id": "93c8c3649cb84ea8a1478b8d82dc8a0e",
+      "uuid": "dbca89fa-f083-5438-b4ad-d3fdeceb78e7",
+      "entity_def_id": "category",
+      "value": "Information Technology"
+    },
+    {
+      "permalink": "media-and-entertainment",
+      "image_id": "5b198f953ddc491ca9a1029778c2057e",
+      "uuid": "78b58810-ad58-a623-2a80-2a0e3603a544",
+      "entity_def_id": "category",
+      "value": "Media and Entertainment"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    }
+  ],
+  "rank_org_company": 566,
+  "funding_stage": "late_stage_venture"
+},
+{
+  "uuid": "ad08fa35-a5d3-462e-959a-55f7b5a2e57b",
+  "name": "Curefoods",
+  "type": "organization",
+  "imageUrl": "https://images.crunchbase.com/image/upload/c_pad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/v1417424257/bgq56bti8dt2ne8omvu7ms5gwayiue9t94rutfxx.png",
+  "link": "https://www.crunchbase.com/organization/curefoods",
+  "identifier": {
+    "permalink": "curefoods",
+    "image_id": "ms5gwayiue9t94rutfxx",
+    "uuid": "ad08fa35-a5d3-462e-959a-55f7b5a2e57b",
+    "entity_def_id": "organization",
+    "value": "Curefoods"
+  },
+  "short_description": "Curefoods is a cloud kitchen platform that operates over 200 cloud kitchens and offline stores offering a diverse range of cuisines.",
+  "num_employees_enum": "c_00501_01000",
+  "location_identifiers": [
+    {
+      "permalink": "bengaluru-karnataka",
+      "uuid": "4919f924-dbb7-d862-5db6-38231678e4d5",
+      "location_type": "city",
+      "entity_def_id": "location",
+      "value": "Bengaluru"
+    },
+    {
+      "permalink": "karnataka-india",
+      "uuid": "cd79504e-3c0a-954f-a3c6-094f46c0d524",
+      "location_type": "region",
+      "entity_def_id": "location",
+      "value": "Karnataka"
+    },
+    {
+      "permalink": "india",
+      "uuid": "44048bf7-db64-0d7a-db20-fd3c1ebf47b0",
+      "location_type": "country",
+      "entity_def_id": "location",
+      "value": "India"
+    },
+    {
+      "permalink": "asia",
+      "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+      "location_type": "continent",
+      "entity_def_id": "location",
+      "value": "Asia"
+    }
+  ],
+  "last_funding_at": "2024-12-18",
+  "last_funding_type": "series_d",
+  "categories": [
+    {
+      "permalink": "food-and-beverage",
+      "image_id": "98b425ac85b742e7ad2c3f1d4c824b32",
+      "uuid": "14364faa-63f9-0d45-7b6a-7378113364a2",
+      "entity_def_id": "category",
+      "value": "Food and Beverage"
+    },
+    {
+      "permalink": "restaurants",
+      "image_id": "c032f41c68414602bcf5f6f02a06ef0c",
+      "uuid": "51385655-f802-346b-045d-f44f461989fc",
+      "entity_def_id": "category",
+      "value": "Restaurants"
+    },
+    {
+      "permalink": "snack-food",
+      "image_id": "7af82c4410fc4ac9b0f4c7c57e67cce7",
+      "uuid": "6ea20ef4-dd12-8a46-3565-22dab9c8a7d4",
+      "entity_def_id": "category",
+      "value": "Snack Food"
+    }
+  ],
+  "rank_org_company": 589,
+  "funding_stage": "late_stage_venture"
+},
+{
+  "uuid": "2e9f1b8c-e790-45f8-8059-bf83be36bcf6",
+  "name": "GrayQuest",
+  "type": "organization",
+  "imageUrl": "https://images.crunchbase.com/image/upload/c_pad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/v1417424257/bgq56bti8dt2ne8omvu7205a5e5379b9422bad14d4832eeb689b.png",
+  "link": "https://www.crunchbase.com/organization/grayquest-education-finance",
+  "identifier": {
+    "permalink": "grayquest-education-finance",
+    "image_id": "205a5e5379b9422bad14d4832eeb689b",
+    "uuid": "2e9f1b8c-e790-45f8-8059-bf83be36bcf6",
+    "entity_def_id": "organization",
+    "value": "GrayQuest"
+  },
+  "short_description": "GrayQuest is a payment platform that provides educational financing services for college and school fees.",
+  "num_employees_enum": "c_00501_01000",
+  "location_identifiers": [
+    {
+      "permalink": "mumbai-maharashtra",
+      "uuid": "08cc18c4-8455-1e1a-3871-0c5e64cfacc7",
+      "location_type": "city",
+      "entity_def_id": "location",
+      "value": "Mumbai"
+    },
+    {
+      "permalink": "maharashtra-india",
+      "uuid": "9f01ca74-7cd7-7b8c-f741-828699d920a2",
+      "location_type": "region",
+      "entity_def_id": "location",
+      "value": "Maharashtra"
+    },
+    {
+      "permalink": "india",
+      "uuid": "44048bf7-db64-0d7a-db20-fd3c1ebf47b0",
+      "location_type": "country",
+      "entity_def_id": "location",
+      "value": "India"
+    },
+    {
+      "permalink": "asia",
+      "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+      "location_type": "continent",
+      "entity_def_id": "location",
+      "value": "Asia"
+    }
+  ],
+  "last_funding_at": "2025-01-10",
+  "last_funding_type": "series_b",
+  "categories": [
+    {
+      "permalink": "education",
+      "image_id": "c67889dbff324d9f841fd6d5ad35a4a2",
+      "uuid": "025caab7-3e54-98f0-061c-73e7af159cd1",
+      "entity_def_id": "category",
+      "value": "Education"
+    },
+    {
+      "permalink": "financial-services",
+      "image_id": "c06f7439a26b42f2b1b190944f73b027",
+      "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+      "entity_def_id": "category",
+      "value": "Financial Services"
+    },
+    {
+      "permalink": "fintech-e067",
+      "image_id": "965ded32ecc54a209f6ec2f500b3b4de",
+      "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+      "entity_def_id": "category",
+      "value": "FinTech"
+    },
+    {
+      "permalink": "payments",
+      "image_id": "e1c219cc324143a191779e0dc6efc73d",
+      "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+      "entity_def_id": "category",
+      "value": "Payments"
+    }
+  ],
+  "rank_org_company": 697,
+  "funding_stage": "early_stage_venture"
+},
+{
+  "uuid": "0ffe65c9-2dfd-b6aa-df6c-cb4bfc0fedc7",
+  "name": "Route Mobile",
+  "type": "organization",
+  "imageUrl": "https://images.crunchbase.com/image/upload/c_pad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/v1417424257/bgq56bti8dt2ne8omvu7xdlaxzcr2wxd8dgrv9hg.png",
+  "link": "https://www.crunchbase.com/organization/route-mobile-limited",
+  "identifier": {
+    "permalink": "route-mobile-limited",
+    "image_id": "xdlaxzcr2wxd8dgrv9hg",
+    "uuid": "0ffe65c9-2dfd-b6aa-df6c-cb4bfc0fedc7",
+    "entity_def_id": "organization",
+    "value": "Route Mobile"
+  },
+  "short_description": "Route Mobile is a cloud communications company that offers communication platform as a service (CPaaS) solutions.",
+  "num_employees_enum": "c_00501_01000",
+  "location_identifiers": [
+    {
+      "permalink": "mumbai-maharashtra",
+      "uuid": "08cc18c4-8455-1e1a-3871-0c5e64cfacc7",
+      "location_type": "city",
+      "entity_def_id": "location",
+      "value": "Mumbai"
+    },
+    {
+      "permalink": "maharashtra-india",
+      "uuid": "9f01ca74-7cd7-7b8c-f741-828699d920a2",
+      "location_type": "region",
+      "entity_def_id": "location",
+      "value": "Maharashtra"
+    },
+    {
+      "permalink": "india",
+      "uuid": "44048bf7-db64-0d7a-db20-fd3c1ebf47b0",
+      "location_type": "country",
+      "entity_def_id": "location",
+      "value": "India"
+    },
+    {
+      "permalink": "asia",
+      "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+      "location_type": "continent",
+      "entity_def_id": "location",
+      "value": "Asia"
+    }
+  ],
+  "last_funding_at": "2021-11-19",
+  "last_funding_type": "post_ipo_equity",
+  "categories": [
+    {
+      "permalink": "cloud-computing",
+      "image_id": "67c1968d91be4db984e28ed6edd9f633",
+      "uuid": "7866a1c0-21ec-241c-c2a6-d263a6ef49dd",
+      "entity_def_id": "category",
+      "value": "Cloud Computing"
+    },
+    {
+      "permalink": "enterprise-applications",
+      "image_id": "a301dae8157d499aa583cd7b5773463c",
+      "uuid": "459ef85b-685a-1d51-c3e9-13fc35e6fe6e",
+      "entity_def_id": "category",
+      "value": "Enterprise Applications"
+    },
+    {
+      "permalink": "messaging-8c62",
+      "image_id": "a70eae552fc24ea79c59a75360a8c3fd",
+      "uuid": "8c6239bf-6854-494b-1a16-e4f7a286dbd5",
+      "entity_def_id": "category",
+      "value": "Messaging"
+    },
+    {
+      "permalink": "telecommunications",
+      "image_id": "0424a31abde04b22a25b30b3be0dd4bc",
+      "uuid": "e12cc7de-d276-007e-7d89-bdf3f8d1ffe7",
+      "entity_def_id": "category",
+      "value": "Telecommunications"
+    }
+  ],
+  "rank_org_company": 758,
+  "funding_stage": "m_and_a"
+},
+{
+  "uuid": "16d49e2f-c555-4142-939a-419db0874539",
+  "name": "SUN Mobility",
+  "type": "organization",
+  "imageUrl": "https://images.crunchbase.com/image/upload/c_pad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/v1417424257/bgq56bti8dt2ne8omvu73ff42766d26347d18afe50f7d29aab72.png",
+  "link": "https://www.crunchbase.com/organization/sun-mobility",
+  "identifier": {
+    "permalink": "sun-mobility",
+    "image_id": "3ff42766d26347d18afe50f7d29aab72",
+    "uuid": "16d49e2f-c555-4142-939a-419db0874539",
+    "entity_def_id": "organization",
+    "value": "SUN Mobility"
+  },
+  "short_description": "SUN Mobility is a manufacturing company that engages in the designing of electric vehicles, smart batteries, and swap point infrastructures.",
+  "num_employees_enum": "c_00501_01000",
+  "location_identifiers": [
+    {
+      "permalink": "bangalore-karnataka",
+      "uuid": "37f3a3fe-b659-895e-4d84-0b649e005c3a",
+      "location_type": "city",
+      "entity_def_id": "location",
+      "value": "Bangalore"
+    },
+    {
+      "permalink": "karnataka-india",
+      "uuid": "cd79504e-3c0a-954f-a3c6-094f46c0d524",
+      "location_type": "region",
+      "entity_def_id": "location",
+      "value": "Karnataka"
+    },
+    {
+      "permalink": "india",
+      "uuid": "44048bf7-db64-0d7a-db20-fd3c1ebf47b0",
+      "location_type": "country",
+      "entity_def_id": "location",
+      "value": "India"
+    },
+    {
+      "permalink": "asia",
+      "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+      "location_type": "continent",
+      "entity_def_id": "location",
+      "value": "Asia"
+    }
+  ],
+  "last_funding_at": "2021-10-20",
+  "rank_org_company": 762,
+  "last_funding_type": "corporate_round",
+  "categories": [
+    {
+      "permalink": "automotive",
+      "image_id": "70b9211be4744e26936e45db0b986706",
+      "uuid": "bb2ad65f-1009-db81-c6f6-83dbcfd64870",
+      "entity_def_id": "category",
+      "value": "Automotive"
+    },
+    {
+      "permalink": "charging-infrastructure",
+      "image_id": "499a206c6bab4e16904a3176b1d1155d",
+      "uuid": "381e1334-f1cd-48f1-ab61-1ae346d142a0",
+      "entity_def_id": "category",
+      "value": "Charging Infrastructure"
+    },
+    {
+      "permalink": "electric-vehicle",
+      "image_id": "4dbd89bf80ff44f8862ef6edb4e7d346",
+      "uuid": "3f4ebc8c-8d6d-623c-099b-4b3a437d98db",
+      "entity_def_id": "category",
+      "value": "Electric Vehicle"
+    },
+    {
+      "permalink": "manufacturing",
+      "image_id": "5084654e06b74f8e91be2b078888e701",
+      "uuid": "e811671c-168d-1fd2-36e5-df4e08a09f7c",
+      "entity_def_id": "category",
+      "value": "Manufacturing"
+    },
+    {
+      "permalink": "transportation",
+      "image_id": "df94c7e21c8648cabd5c8fb42a2fc129",
+      "uuid": "95642ff0-23e9-79a3-612b-50de99f06305",
+      "entity_def_id": "category",
+      "value": "Transportation"
+    }
+  ]
+},
+{
+  "uuid": "89b8a8bf-89fd-4cf8-9b90-775a5230adac",
+  "name": "Ola Electric",
+  "type": "organization",
+  "imageUrl": "https://images.crunchbase.com/image/upload/c_pad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/v1417424257/bgq56bti8dt2ne8omvu7b0eb6071274e4a3bb894d657ab7e9f9a.png",
+  "link": "https://www.crunchbase.com/organization/ola-electric",
+  "identifier": {
+    "permalink": "ola-electric",
+    "image_id": "b0eb6071274e4a3bb894d657ab7e9f9a",
+    "uuid": "89b8a8bf-89fd-4cf8-9b90-775a5230adac",
+    "entity_def_id": "organization",
+    "value": "Ola Electric"
+  },
+  "short_description": "Ola Electric focuses on developing and manufacturing electric vehicles (EVs) and related technologies.",
+  "num_employees_enum": "c_00501_01000",
+  "location_identifiers": [
+    {
+      "permalink": "bengaluru-karnataka",
+      "uuid": "4919f924-dbb7-d862-5db6-38231678e4d5",
+      "location_type": "city",
+      "entity_def_id": "location",
+      "value": "Bengaluru"
+    },
+    {
+      "permalink": "karnataka-india",
+      "uuid": "cd79504e-3c0a-954f-a3c6-094f46c0d524",
+      "location_type": "region",
+      "entity_def_id": "location",
+      "value": "Karnataka"
+    },
+    {
+      "permalink": "india",
+      "uuid": "44048bf7-db64-0d7a-db20-fd3c1ebf47b0",
+      "location_type": "country",
+      "entity_def_id": "location",
+      "value": "India"
+    },
+    {
+      "permalink": "asia",
+      "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+      "location_type": "continent",
+      "entity_def_id": "location",
+      "value": "Asia"
+    }
+  ],
+  "last_funding_at": "2024-06-11",
+  "last_funding_type": "debt_financing",
+  "categories": [
+    {
+      "permalink": "automotive",
+      "image_id": "70b9211be4744e26936e45db0b986706",
+      "uuid": "bb2ad65f-1009-db81-c6f6-83dbcfd64870",
+      "entity_def_id": "category",
+      "value": "Automotive"
+    },
+    {
+      "permalink": "electric-vehicle",
+      "image_id": "4dbd89bf80ff44f8862ef6edb4e7d346",
+      "uuid": "3f4ebc8c-8d6d-623c-099b-4b3a437d98db",
+      "entity_def_id": "category",
+      "value": "Electric Vehicle"
+    },
+    {
+      "permalink": "manufacturing",
+      "image_id": "5084654e06b74f8e91be2b078888e701",
+      "uuid": "e811671c-168d-1fd2-36e5-df4e08a09f7c",
+      "entity_def_id": "category",
+      "value": "Manufacturing"
+    },
+    {
+      "permalink": "sales",
+      "image_id": "732afd1b47e045aa881cf4462461dd71",
+      "uuid": "70b41afa-2761-ea9e-86c4-0dfa312bedf1",
+      "entity_def_id": "category",
+      "value": "Sales"
+    },
+    {
+      "permalink": "sustainability-e391",
+      "image_id": "24a413b1f7f142aca99fb9cd1f39903b",
+      "uuid": "e391c491-c09d-a04e-b5b6-57aa8b8d0fc6",
+      "entity_def_id": "category",
+      "value": "Sustainability"
+    }
+  ],
+  "rank_org_company": 1112,
+  "funding_stage": "ipo"
+},
+{
+  "uuid": "a06795dd-36bc-a9b3-1fd3-5e7d3ed52022",
+  "name": "BookMyShow",
+  "type": "organization",
+  "imageUrl": "https://images.crunchbase.com/image/upload/c_pad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/v1417424257/bgq56bti8dt2ne8omvu7v1490416068/snddxyieomgp4s7sj7bp.png.png",
+  "link": "https://www.crunchbase.com/organization/bookmyshow",
+  "identifier": {
+    "permalink": "bookmyshow",
+    "image_id": "v1490416068/snddxyieomgp4s7sj7bp.png",
+    "uuid": "a06795dd-36bc-a9b3-1fd3-5e7d3ed52022",
+    "entity_def_id": "organization",
+    "value": "BookMyShow"
+  },
+  "short_description": "BookMyShow is an Indian online ticketing service for cinemas, theaters, and sports.",
+  "num_employees_enum": "c_00501_01000",
+  "location_identifiers": [
+    {
+      "permalink": "mumbai-maharashtra",
+      "uuid": "08cc18c4-8455-1e1a-3871-0c5e64cfacc7",
+      "location_type": "city",
+      "entity_def_id": "location",
+      "value": "Mumbai"
+    },
+    {
+      "permalink": "maharashtra-india",
+      "uuid": "9f01ca74-7cd7-7b8c-f741-828699d920a2",
+      "location_type": "region",
+      "entity_def_id": "location",
+      "value": "Maharashtra"
+    },
+    {
+      "permalink": "india",
+      "uuid": "44048bf7-db64-0d7a-db20-fd3c1ebf47b0",
+      "location_type": "country",
+      "entity_def_id": "location",
+      "value": "India"
+    },
+    {
+      "permalink": "asia",
+      "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+      "location_type": "continent",
+      "entity_def_id": "location",
+      "value": "Asia"
+    }
+  ],
+  "last_funding_at": "2019-01-01",
+  "rank_org_company": 1313,
+  "last_funding_type": "series_unknown",
+  "categories": [
+    {
+      "permalink": "digital-entertainment",
+      "image_id": "6eb3fe31bacc4a8ab19f7fb90634d846",
+      "uuid": "6f169dae-3199-cda7-a7eb-94c30066691c",
+      "entity_def_id": "category",
+      "value": "Digital Entertainment"
+    },
+    {
+      "permalink": "e-commerce-275d",
+      "image_id": "549a838b94a34ba9820468c910cf40f3",
+      "uuid": "275ddcbc-27de-ff4f-4e50-6dc26ebf9570",
+      "entity_def_id": "category",
+      "value": "E-Commerce"
+    },
+    {
+      "permalink": "event-management",
+      "image_id": "d97a1537b2824fa0b2c7f46c742c3800",
+      "uuid": "917e01db-e156-b8f9-507f-ae9b76ecfc48",
+      "entity_def_id": "category",
+      "value": "Event Management"
+    },
+    {
+      "permalink": "events",
+      "image_id": "4935543a82d34d6f82df08a74c1751f4",
+      "uuid": "d4a7bfe6-59ed-ae17-e043-1a7415745a0e",
+      "entity_def_id": "category",
+      "value": "Events"
+    },
+    {
+      "permalink": "internet",
+      "image_id": "920e060f0da2433f86a0848520dad911",
+      "uuid": "2772a539-e636-09dc-30dc-b1a7deb98d0e",
+      "entity_def_id": "category",
+      "value": "Internet"
+    },
+    {
+      "permalink": "media-and-entertainment",
+      "image_id": "5b198f953ddc491ca9a1029778c2057e",
+      "uuid": "78b58810-ad58-a623-2a80-2a0e3603a544",
+      "entity_def_id": "category",
+      "value": "Media and Entertainment"
+    },
+    {
+      "permalink": "online-auctions",
+      "image_id": "76b7ccf7ce3e48dd8ce08c3a8c395211",
+      "uuid": "394fda16-eeab-4398-f53c-79785038b60c",
+      "entity_def_id": "category",
+      "value": "Online Auctions"
+    },
+    {
+      "permalink": "social-media",
+      "image_id": "e4729cb24a0d462782f19ba2db017b61",
+      "uuid": "5349a2f2-14d8-9727-c32a-19ebea5db78c",
+      "entity_def_id": "category",
+      "value": "Social Media"
+    },
+    {
+      "permalink": "sports",
+      "image_id": "45fedbc985f14dfe9863c9651bf46e31",
+      "uuid": "a0144815-bd8f-9a1b-42ae-74c91617a77c",
+      "entity_def_id": "category",
+      "value": "Sports"
+    }
+  ]
+},
+{
+  "uuid": "fd78c49b-8447-5fa8-da80-bbfbc19591a0",
+  "name": "Indian Institute of Technology Madras",
+  "type": "organization",
+  "imageUrl": "https://images.crunchbase.com/image/upload/c_pad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/v1417424257/bgq56bti8dt2ne8omvu767e85a3441fe43d8a7ea64a4bcad5e1a.png",
+  "link": "https://www.crunchbase.com/organization/indian-institute-of-technology-madras",
+  "identifier": {
+    "permalink": "indian-institute-of-technology-madras",
+    "image_id": "67e85a3441fe43d8a7ea64a4bcad5e1a",
+    "uuid": "fd78c49b-8447-5fa8-da80-bbfbc19591a0",
+    "entity_def_id": "organization",
+    "value": "Indian Institute of Technology Madras"
+  },
+  "short_description": "Indian Institute of Technology Madras is a residential institute focusing on basic and applied research of technology.",
+  "num_employees_enum": "c_00501_01000",
+  "location_identifiers": [
+    {
+      "permalink": "chennai-tamil-nadu",
+      "uuid": "8a67b8cd-bded-1914-97cc-c4ef8db93cf6",
+      "location_type": "city",
+      "entity_def_id": "location",
+      "value": "Chennai"
+    },
+    {
+      "permalink": "tamil-nadu-india",
+      "uuid": "360bdbca-1b1a-950c-1c65-7d8866553adb",
+      "location_type": "region",
+      "entity_def_id": "location",
+      "value": "Tamil Nadu"
+    },
+    {
+      "permalink": "india",
+      "uuid": "44048bf7-db64-0d7a-db20-fd3c1ebf47b0",
+      "location_type": "country",
+      "entity_def_id": "location",
+      "value": "India"
+    },
+    {
+      "permalink": "asia",
+      "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+      "location_type": "continent",
+      "entity_def_id": "location",
+      "value": "Asia"
+    }
+  ],
+  "last_funding_at": "2023-02-01",
+  "rank_org_company": 1342,
+  "last_funding_type": "grant",
+  "categories": [
+    {
+      "permalink": "education",
+      "image_id": "c67889dbff324d9f841fd6d5ad35a4a2",
+      "uuid": "025caab7-3e54-98f0-061c-73e7af159cd1",
+      "entity_def_id": "category",
+      "value": "Education"
+    },
+    {
+      "permalink": "higher-education",
+      "image_id": "855f818f92ef4727972e0daf36d7af5d",
+      "uuid": "3ced088e-84de-330f-443a-1aa6cd3cc29f",
+      "entity_def_id": "category",
+      "value": "Higher Education"
+    },
+    {
+      "permalink": "information-technology-dbca",
+      "image_id": "93c8c3649cb84ea8a1478b8d82dc8a0e",
+      "uuid": "dbca89fa-f083-5438-b4ad-d3fdeceb78e7",
+      "entity_def_id": "category",
+      "value": "Information Technology"
+    }
+  ]
+},
+{
+  "uuid": "c106072c-2a02-41de-8e46-b44f88f6c41d",
+  "name": "Adda247",
+  "type": "organization",
+  "imageUrl": "https://images.crunchbase.com/image/upload/c_pad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/v1417424257/bgq56bti8dt2ne8omvu7v77kslbrlc4sffby4po5.png",
+  "link": "https://www.crunchbase.com/organization/adda247",
+  "identifier": {
+    "permalink": "adda247",
+    "image_id": "v77kslbrlc4sffby4po5",
+    "uuid": "c106072c-2a02-41de-8e46-b44f88f6c41d",
+    "entity_def_id": "organization",
+    "value": "Adda247"
+  },
+  "short_description": "Adda247 is a edtech platform catering service.",
+  "num_employees_enum": "c_00501_01000",
+  "location_identifiers": [
+    {
+      "permalink": "gurgaon-haryana",
+      "uuid": "43ab9136-c365-420c-be50-e5e9576751cf",
+      "location_type": "city",
+      "entity_def_id": "location",
+      "value": "Gurgaon"
+    },
+    {
+      "permalink": "haryana-india",
+      "uuid": "5791883d-3b71-c28b-b39b-bf559f26c754",
+      "location_type": "region",
+      "entity_def_id": "location",
+      "value": "Haryana"
+    },
+    {
+      "permalink": "india",
+      "uuid": "44048bf7-db64-0d7a-db20-fd3c1ebf47b0",
+      "location_type": "country",
+      "entity_def_id": "location",
+      "value": "India"
+    },
+    {
+      "permalink": "asia",
+      "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+      "location_type": "continent",
+      "entity_def_id": "location",
+      "value": "Asia"
+    }
+  ],
+  "last_funding_at": "2022-10-01",
+  "last_funding_type": "series_b",
+  "categories": [
+    {
+      "permalink": "edtech",
+      "image_id": "aeaaa48c3168401cb472ec6a70356d5a",
+      "uuid": "245880f2-a61a-0ea2-cf81-306964716611",
+      "entity_def_id": "category",
+      "value": "EdTech"
+    }
+  ],
+  "rank_org_company": 1507,
+  "funding_stage": "early_stage_venture"
+},
+{
+  "uuid": "d7a3a423-f6e5-f0b1-96fa-6e5f35e47765",
+  "name": "Acko",
+  "type": "organization",
+  "imageUrl": "https://images.crunchbase.com/image/upload/c_pad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/v1417424257/bgq56bti8dt2ne8omvu7is4pa4idtrnfpewpdjvb.png",
+  "link": "https://www.crunchbase.com/organization/acko-general-insurance",
+  "identifier": {
+    "permalink": "acko-general-insurance",
+    "image_id": "is4pa4idtrnfpewpdjvb",
+    "uuid": "d7a3a423-f6e5-f0b1-96fa-6e5f35e47765",
+    "entity_def_id": "organization",
+    "value": "Acko"
+  },
+  "short_description": "Acko is a general insurance company that offers insurance products for people working in the transportation and healthcare sectors.",
+  "num_employees_enum": "c_00501_01000",
+  "location_identifiers": [
+    {
+      "permalink": "mumbai-maharashtra",
+      "uuid": "08cc18c4-8455-1e1a-3871-0c5e64cfacc7",
+      "location_type": "city",
+      "entity_def_id": "location",
+      "value": "Mumbai"
+    },
+    {
+      "permalink": "maharashtra-india",
+      "uuid": "9f01ca74-7cd7-7b8c-f741-828699d920a2",
+      "location_type": "region",
+      "entity_def_id": "location",
+      "value": "Maharashtra"
+    },
+    {
+      "permalink": "india",
+      "uuid": "44048bf7-db64-0d7a-db20-fd3c1ebf47b0",
+      "location_type": "country",
+      "entity_def_id": "location",
+      "value": "India"
+    },
+    {
+      "permalink": "asia",
+      "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+      "location_type": "continent",
+      "entity_def_id": "location",
+      "value": "Asia"
+    }
+  ],
+  "last_funding_at": "2023-06-07",
+  "last_funding_type": "private_equity",
+  "categories": [
+    {
+      "permalink": "auto-insurance",
+      "image_id": "aa5f60c4d1514ef7ad52ceb60159e8a1",
+      "uuid": "49f88f02-6018-cdea-a366-abef5d02d8a2",
+      "entity_def_id": "category",
+      "value": "Auto Insurance"
+    },
+    {
+      "permalink": "health-insurance",
+      "image_id": "5f6dc24243524ac3a0f87b4515c7b817",
+      "uuid": "be133f07-21af-c85e-fd6a-e2e3ddf8466a",
+      "entity_def_id": "category",
+      "value": "Health Insurance"
+    },
+    {
+      "permalink": "insurance",
+      "image_id": "59ffb5fcd6274ae59184803429a448a1",
+      "uuid": "b8ca872c-983d-f8dd-3639-2660511203ef",
+      "entity_def_id": "category",
+      "value": "Insurance"
+    },
+    {
+      "permalink": "insurtech",
+      "image_id": "b68ade0967bc4aa1a3c4e8ece0141b6f",
+      "uuid": "e33cac20-55b4-a943-e64a-7fc37a3d2ca3",
+      "entity_def_id": "category",
+      "value": "InsurTech"
+    }
+  ],
+  "rank_org_company": 1516,
+  "funding_stage": "private_equity"
+},
+{
+  "uuid": "9fc3f047-6b5d-a222-842e-76ad8d63db06",
+  "name": "Magicpin",
+  "type": "organization",
+  "imageUrl": "https://images.crunchbase.com/image/upload/c_pad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/v1417424257/bgq56bti8dt2ne8omvu7th0r0jdm4iqolvbba9cv.png",
+  "link": "https://www.crunchbase.com/organization/magicpin",
+  "identifier": {
+    "permalink": "magicpin",
+    "image_id": "th0r0jdm4iqolvbba9cv",
+    "uuid": "9fc3f047-6b5d-a222-842e-76ad8d63db06",
+    "entity_def_id": "organization",
+    "value": "Magicpin"
+  },
+  "short_description": "Magicpin is a platform that allows its users to shop and interact with those around them.",
+  "num_employees_enum": "c_00501_01000",
+  "location_identifiers": [
+    {
+      "permalink": "gurgaon-haryana",
+      "uuid": "43ab9136-c365-420c-be50-e5e9576751cf",
+      "location_type": "city",
+      "entity_def_id": "location",
+      "value": "Gurgaon"
+    },
+    {
+      "permalink": "haryana-india",
+      "uuid": "5791883d-3b71-c28b-b39b-bf559f26c754",
+      "location_type": "region",
+      "entity_def_id": "location",
+      "value": "Haryana"
+    },
+    {
+      "permalink": "india",
+      "uuid": "44048bf7-db64-0d7a-db20-fd3c1ebf47b0",
+      "location_type": "country",
+      "entity_def_id": "location",
+      "value": "India"
+    },
+    {
+      "permalink": "asia",
+      "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+      "location_type": "continent",
+      "entity_def_id": "location",
+      "value": "Asia"
+    }
+  ],
+  "last_funding_at": "2021-11-10",
+  "last_funding_type": "series_d",
+  "categories": [
+    {
+      "permalink": "advertising-6cb6",
+      "image_id": "aad35c2740c248479127009b14f7e3ac",
+      "uuid": "6cb68537-2de1-b041-2ee5-451ff81bccab",
+      "entity_def_id": "category",
+      "value": "Advertising"
+    },
+    {
+      "permalink": "e-commerce-275d",
+      "image_id": "549a838b94a34ba9820468c910cf40f3",
+      "uuid": "275ddcbc-27de-ff4f-4e50-6dc26ebf9570",
+      "entity_def_id": "category",
+      "value": "E-Commerce"
+    },
+    {
+      "permalink": "e-commerce-platforms",
+      "image_id": "b6ca7e5951a54c48a856b3c25552ed15",
+      "uuid": "c2ddf939-d1f3-bd05-c436-22c0f3cdcb4b",
+      "entity_def_id": "category",
+      "value": "E-Commerce Platforms"
+    },
+    {
+      "permalink": "retail",
+      "image_id": "2ec04bee09ac460992ea180f967d8106",
+      "uuid": "b65acba5-b299-3990-6390-8be3e3833a07",
+      "entity_def_id": "category",
+      "value": "Retail"
+    }
+  ],
+  "rank_org_company": 1708,
+  "funding_stage": "late_stage_venture"
+},
+{
+  "uuid": "915a8384-82b5-4f18-b6e7-e5b67129e087",
+  "name": "Mobile Premier League",
+  "type": "organization",
+  "imageUrl": "https://images.crunchbase.com/image/upload/c_pad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/v1417424257/bgq56bti8dt2ne8omvu7ylbqajwtxoxnffrfxbid.png",
+  "link": "https://www.crunchbase.com/organization/mobile-premier-league-mpl",
+  "identifier": {
+    "permalink": "mobile-premier-league-mpl",
+    "image_id": "ylbqajwtxoxnffrfxbid",
+    "uuid": "915a8384-82b5-4f18-b6e7-e5b67129e087",
+    "entity_def_id": "organization",
+    "value": "Mobile Premier League"
+  },
+  "short_description": "Mobile Premier League is a skill-based eSports platform used to offer cash prizes while playing games.",
+  "num_employees_enum": "c_00501_01000",
+  "location_identifiers": [
+    {
+      "permalink": "bengaluru-karnataka",
+      "uuid": "4919f924-dbb7-d862-5db6-38231678e4d5",
+      "location_type": "city",
+      "entity_def_id": "location",
+      "value": "Bengaluru"
+    },
+    {
+      "permalink": "karnataka-india",
+      "uuid": "cd79504e-3c0a-954f-a3c6-094f46c0d524",
+      "location_type": "region",
+      "entity_def_id": "location",
+      "value": "Karnataka"
+    },
+    {
+      "permalink": "india",
+      "uuid": "44048bf7-db64-0d7a-db20-fd3c1ebf47b0",
+      "location_type": "country",
+      "entity_def_id": "location",
+      "value": "India"
+    },
+    {
+      "permalink": "asia",
+      "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+      "location_type": "continent",
+      "entity_def_id": "location",
+      "value": "Asia"
+    }
+  ],
+  "last_funding_at": "2022-01-01",
+  "rank_org_company": 1865,
+  "last_funding_type": "series_unknown",
+  "categories": [
+    {
+      "permalink": "esports",
+      "image_id": "c9d7082709f94141b59ef5b29f60fc0e",
+      "uuid": "7942caad-878e-65f5-4991-471dc8e7667d",
+      "entity_def_id": "category",
+      "value": "eSports"
+    },
+    {
+      "permalink": "gaming",
+      "image_id": "86268c2b0c3f4ba69b2110597fed2d75",
+      "uuid": "dd1ef133-8ee8-088c-bbe1-bdf22241358f",
+      "entity_def_id": "category",
+      "value": "Gaming"
+    },
+    {
+      "permalink": "ios-6e02",
+      "image_id": "a808e760bc004882aa19c98e33709563",
+      "uuid": "6e028126-f8ae-ecdb-9bd4-2c4c1569084f",
+      "entity_def_id": "category",
+      "value": "iOS"
+    },
+    {
+      "permalink": "sports",
+      "image_id": "45fedbc985f14dfe9863c9651bf46e31",
+      "uuid": "a0144815-bd8f-9a1b-42ae-74c91617a77c",
+      "entity_def_id": "category",
+      "value": "Sports"
+    }
+  ]
+}]

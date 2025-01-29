@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://www.crunchbase.com/organization/microsoft",
+    "name": "Microsoft",
+    "description": null,
+    "website": null,
+    "headquarters": null,
+    "founded_date": null,
+    "employees": null,
+    "funding": null
+  },
+  {
+    "url": "https://www.crunchbase.com/organization/google",
+    "name": "Google",
+    "description": null,
+    "website": null,
+    "headquarters": null,
+    "founded_date": null,
+    "employees": null,
+    "funding": null
+  },
+  {
+    "url": "https://www.crunchbase.com/organization/apple",
+    "name": "Apple",
+    "description": null,
+    "website": null,
+    "headquarters": null,
+    "founded_date": null,
+    "employees": null,
+    "funding": null
+  }
+]
