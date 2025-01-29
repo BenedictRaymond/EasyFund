@@ -14,36 +14,19 @@ This project automates the collection and analysis of Crunchbase data through th
 
 ## Project Structure
 
+![image](https://github.com/user-attachments/assets/884b9bb9-8436-4338-aed5-c47147aef789)
 
-_MACOSX/
-├── proj/
-    ├── public/
-    │   ├── favicon.ico
-    │   ├── index.html
-    │   ├── logo192.png
-    │   ├── logo512.png
-    │   ├── manifest.json
-    │   └── robots.txt
-    ├── src/
-    │   ├── api/
-    │   ├── components/
-    │   ├── lib/
-    │   ├── pages/
-    │   ├── server/
-    │   ├── styles/
-    │   ├── App.css
-    │   ├── App.js
-    │   ├── App.test.js
-    │   ├── index.css
-    │   ├── index.js
-    │   ├── logo.svg
-    │   ├── reportWebVit.js
-    │   └── setupTests.js
-    ├── .env
-    ├── .gitignore
-    ├── package-lock.json
-    ├── package.json
-    └── server.js
+## Final Outcome
+![image](https://github.com/user-attachments/assets/cd8c3fa2-dc26-4fb5-9193-30b8ebb40eb2)
+
+## Database
+![WhatsApp Image 2025-01-29 at 20 10 57_8bdfca7c](https://github.com/user-attachments/assets/6f1b8744-1e77-41c2-8bb9-3e0c87346209)
+
+
+
+## Predictive Analytics for Startups
+Created a machine learning model to project the success rate of startups based on several parameters
+![WhatsApp Image 2025-01-29 at 20 50 46_43f1df4a](https://github.com/user-attachments/assets/b2f5ed32-17f5-4d70-a2ba-b139d5907cd1)
 
 
 ## Features
@@ -57,21 +40,12 @@ _MACOSX/
 ## Project Workflow
 
 ### 1. Data Collection Pipeline
-mermaid
-graph LR
-    A[Web Scraper] --> B[Crunchbase Pages]
-    B --> C[Raw Data Collection]
-    C --> D[Data Storage]
-    D --> E[Data Cleaning]
 
+    Web Scraper --> Crunchbase Pages --> Raw Data Collection --> Data Storage --> Data Cleaning
 
 ### 2. Analysis Workflow
-mermaid
-graph TD
-    A[Clean Data] --> B[Feature Engineering]
-    B --> C[ML Model Training]
-    C --> D[Generate Insights]
-    D --> E[Dashboard Updates]
+
+    Clean Data --> Feature Engineering --> ML Model Training --> Generate Insights --> Dashboard Updates
 
 
 ### 3. Development Workflow
@@ -120,32 +94,32 @@ graph TD
    - Required environment variables (see .env.example)
 
 2. *Installation*
-   bash
+
+       bash
+       # Install dependencies
+       npm install
+    
+       # Set up environment variables
+       cp .env.example .env
    
 
-   # Install dependencies
-   npm install
-
-   # Set up environment variables
-   cp .env.example .env
+4. *Running the Application*
    
+       bash
+       # Start the backend server
+       npm run server
 
-3. *Running the Application*
-   bash
-   # Start the backend server
-   npm run server
-
-   # Start the frontend development server
-   npm run start
+       # Start the frontend development server
+       npm run start
    
 
 ## Configuration
 
 Create a .env file in the root directory with the following variables:
 
-DB_CONNECTION_STRING=
-API_KEY=
-PORT=
+    DB_CONNECTION_STRING=
+    API_KEY=
+    PORT=
 
 
 ## Development
@@ -157,25 +131,14 @@ PORT=
 
 ## Testing
 
-bash
-npm run test
+    bash
+    npm run test
 
 
 ## Building for Production
 
-bash
-npm run build
-
-## Database
-![WhatsApp Image 2025-01-29 at 20 10 57_8bdfca7c](https://github.com/user-attachments/assets/6f1b8744-1e77-41c2-8bb9-3e0c87346209)
-
-
-
-## Predictive Analytics for Startups
-Created a machine learning model to project the success rate of startups based on several parameters
-![WhatsApp Image 2025-01-29 at 20 50 46_43f1df4a](https://github.com/user-attachments/assets/b2f5ed32-17f5-4d70-a2ba-b139d5907cd1)
-
-
+    bash
+    npm run build
 
 
 ## Contributing
