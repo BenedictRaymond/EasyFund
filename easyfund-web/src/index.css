@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 * {
   margin: 0;
   padding: 0;
@@ -9,31 +13,32 @@ html {
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   background: #f3f4f6;
   color: #374151;
   line-height: 1.6;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Poppins', sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Poppins", sans-serif;
   font-weight: 600;
 }
 
 /* Add smooth transitions for all interactive elements */
-button, a {
+button,
+a {
   transition: all 0.3s ease;
 }
 
 /* Add a subtle gradient background to the entire app */
 .App {
   min-height: 100vh;
-  background: linear-gradient(
-    135deg,
-    #f3f4f6 0%,
-    #ffffff 50%,
-    #f3f4f6 100%
-  );
+  background: linear-gradient(135deg, #f3f4f6 0%, #ffffff 50%, #f3f4f6 100%);
   background-size: 200% 200%;
   animation: gradient 15s ease infinite;
 }

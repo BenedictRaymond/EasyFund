@@ -1,30 +1,29 @@
-import '../styles/Footer.css';
+import "../styles/Footer.css";
 
 const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-content">
         <div className="footer-section">
-          <h4>StartupHub</h4>
-          <p>Your gateway to startup success</p>
+          <h4>EasyFund</h4>
+          <p>Real-time startup intelligence platform</p>
         </div>
         <div className="footer-section">
-          <h4>Contact</h4>
-          <p>Email: info@startuphub.com</p>
-          <p>Phone: (555) 123-4567</p>
+          <h4>Data Sources</h4>
+          <p>Crunchbase &middot; Hacker News</p>
+          <p>MongoDB &middot; Live API</p>
         </div>
         <div className="footer-section">
-          <h4>Follow Us</h4>
-          <p>Twitter</p>
-          <p>LinkedIn</p>
-          <p>Facebook</p>
+          <h4>Built With</h4>
+          <p>React &middot; Express &middot; Recharts</p>
+          <p>MongoDB &middot; Node.js</p>
         </div>
       </div>
       <div className="footer-bottom">
-        <p>&copy; 2024 StartupHub. All rights reserved.</p>
+        <p>&copy; 2025 EasyFund. All rights reserved.</p>
       </div>
     </footer>
   );
 };
 
-export default Footer; 
+export default Footer;

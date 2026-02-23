@@ -1,38 +1,35 @@
-import '../styles/Leaderboard.css';
+import { useState, useEffect } from "react";
+import { startupApi } from "../api/startupApi.js";
+import "../styles/Leaderboard.css";
 
 const Leaderboard = () => {
-  const startups = [
-    {
-      name: "TechStart",
-      raised: 1500000,
-      badges: ["Rapid Growth", "Innovation"],
-      rank: 1
-    },
-    {
-      name: "GreenEnergy",
-      raised: 1200000,
-      badges: ["Sustainable", "Community Choice"],
-      rank: 2
-    },
-    {
-      name: "HealthAI",
-      raised: 900000,
-      badges: ["Innovation"],
-      rank: 3
-    },
-    {
-      name: "FinTech Pro",
-      raised: 750000,
-      badges: ["Rising Star"],
-      rank: 4
-    },
-    {
-      name: "EduTech",
-      raised: 500000,
-      badges: ["Impact"],
-      rank: 5
-    }
-  ];
+  const [startups, setStartups] = useState([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const fetchLeaderboard = async () => {
+      try {
+        const data = await startupApi.getLeaderboard();
+        setStartups(data);
+      } catch (err) {
+        console.error("Failed to load leaderboard:", err);
+      } finally {
+        setLoading(false);
+      }
+    };
+    fetchLeaderboard();
+  }, []);
+
+  if (loading) {
+    return (
+      <div className="leaderboard">
+        <h2>Top Performing Startups</h2>
+        <p style={{ textAlign: "center", padding: "20px" }}>
+          Loading leaderboard...
+        </p>
+      </div>
+    );
+  }
 
   return (
     <div className="leaderboard">
@@ -44,13 +41,16 @@ const Leaderboard = () => {
             <div className="startup-info">
               <h3>{startup.name}</h3>
               <div className="badges">
-                {startup.badges.map((badge, badgeIndex) => (
-                  <span key={badgeIndex} className="badge">{badge}</span>
+                {startup.categories.slice(0, 2).map((cat, catIndex) => (
+                  <span key={catIndex} className="badge">
+                    {cat}
+                  </span>
                 ))}
+                <span className="badge">{startup.fundingStage}</span>
               </div>
             </div>
             <div className="raised">
-              ${startup.raised.toLocaleString()}
+              ${startup.estimatedRaised.toLocaleString()}
             </div>
           </div>
         ))}
@@ -59,4 +59,4 @@ const Leaderboard = () => {
   );
 };
 
-export default Leaderboard; 
+export default Leaderboard;
